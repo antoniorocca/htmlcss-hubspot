@@ -503,3 +503,204 @@ h3 {
   font-size: 14px;
   color: white;
 }
+
+.pre-footer {
+  height: 600px;
+  position: relative;
+}
+
+.titolo-prefooter {
+  margin-left: 280px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-size: 50px;
+  color: rgb(51, 71, 129);
+}
+
+.testo1-prefooter {
+  width: 160px;
+  font-size: 15px;
+  height: 60px;
+  line-height: 2em;
+  color: rgb(51, 71, 129);
+  margin-left: 280px;
+}
+
+#titolino-prefooter {
+  margin-top: 120px;
+  margin-left: 200px;
+  font-size: 30px;
+  width: 400px;
+}
+
+#penultimo {
+  margin-top: 30px;
+  margin-left: 200px;
+  font-size: 15px;
+  line-height: 2em;
+  width: 400px;
+  color: rgb(51, 71, 129);
+}
+
+#final-button {
+  margin-left: 200px;
+  margin-top: 30px;
+}
+
+#sotto-button {
+  font-size: 12px;
+  margin-top: 10px;
+  margin-left: 200px;
+  color: rgb(51, 71, 129);
+}
+
+.parte-destra {
+  height: 600px;
+  width: 800px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.atlassia, .doordash, .g2crowd, .purple, .subaru, .wistia, .classpass, .wmware {
+  height: 40px;
+  width: 160px;
+  padding-right: 40px;
+  margin-top: 30px;
+}
+
+.woman {
+  margin-top: 80px;
+  margin-left: 400px;
+  height: 330px;
+  width: 280px;
+}
+
+footer {
+  height: 700px;
+  background: rgb(45, 62, 80);
+  bottom: 0;
+}
+
+.footer1 {
+ width: 1000px;
+ height: 400px;
+ margin: auto;
+}
+
+.footer1:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.colonnina1, .colonnina2, .colonnina3, .colonnina4 {
+  width: 23%;
+  height: 90%;
+  margin-right: 20px;
+  margin-top: 50px;
+}
+
+h4 {
+  font-size: 18px;
+  color: white;
+  margin-bottom: 25px;
+}
+
+.col {
+  color: white;
+  font-size: 14px;
+  line-height: 3em;
+  display: block;
+  text-decoration: none;
+}
+
+.col:hover {
+  text-decoration: underline;
+  color: rgb(127, 209, 222);
+}
+
+#special-footer {
+  background: white;
+  color: rgb(45, 62, 80);
+  border-color: white;
+  border-radius: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 180px;
+  height: 45px;
+  font-size: 15px;
+}
+
+#special-footer:hover {
+  background-color: lightgrey;
+}
+
+.social {
+  color: white;
+  margin-top: 10px;
+  margin-right: 20px;
+}
+
+.social:hover {
+  color: rgb(127, 209, 222);
+}
+
+.footer2 {
+  width: 1000px;
+  margin: auto;
+  height: 60px;
+  margin-top: 120px;
+  position: relative;
+}
+
+#lingue {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.lingua-footer {
+  color: white;
+  margin-right: 15px;
+}
+
+.lingua-footer:hover {
+  text-decoration: underline;
+  color: rgb(127, 209, 222);
+}
+
+#riga-footer {
+  width: 1000px;
+  color: white;
+  text-align: center;
+}
+
+.logo-end {
+  margin-top: 40px;
+}
+
+.copyr {
+  color: white;
+}
+
+.info-finale {
+  display: inline-block;
+  position: absolute;
+  top: 50px;
+  right: 0;
+  margin-top: 40px;
+}
+
+.legal {
+  padding-right: 10px;
+}
+
+.legal, .policy {
+  color: white;
+  text-decoration: none;
+}
+
+.legal:hover, .policy:hover {
+  text-decoration: underline;
+  color: rgb(127, 209, 222);
+}
